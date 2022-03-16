@@ -12,3 +12,12 @@ Line 2 through N +1: A string of between 1 and 750 lowercase unaccented characte
 
 Exit
 An integer indicating the number of characters making up the longest word in the dictionary. 
+
+# How to run this code? 
+
+to run the code you need to :
+- Download and install nodeJS on your pc
+- Do an nmp install to install the necessary tools
+- Run node longestWord.js on terminal
+
+
